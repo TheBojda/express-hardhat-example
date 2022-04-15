@@ -1,6 +1,7 @@
 # Express.js + Hardhat example
 
 Run project:
+- Run `npm install` to install dependencies
 - Run hardhat node by `npx hardhat node`
 - Open another terminal
 - Deploy contract by `npx hardhat run scripts/deploy.ts --network localhost`
